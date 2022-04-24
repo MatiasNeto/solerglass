@@ -1,0 +1,6 @@
+azul: 60 127 193 / #3c7fc1
+preto: 14 14 14 / #0e0e0e 
+cinza1: 99 99 99 /  #636363
+cinza2: 185 185 185 / #b9b9b9
+
+https://www.canva.com/design/DAE-PU2eNKg/dpFcsaY9YlQ4VihfPH9FnQ/view?utm_content=DAE-PU2eNKg&utm_campaign=celebratory_first_publish&utm_medium=link&utm_source=celebratory_first_publish
